@@ -1,0 +1,9 @@
+
+{
+    "XHOMELOGO" : "//img[@width='266']",
+    "XEMPLOGO" : "//img[@height='180']",
+    "XHOMETEXT" : "//font[@face='tahoma']",
+    "XUN" : "//input[@type='text']",
+    "XPWD" : "//input[@type='password']",
+    "XSUB" : "//input[@type='Submit']"
+}

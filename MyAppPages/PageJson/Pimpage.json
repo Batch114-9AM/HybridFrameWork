@@ -1,0 +1,6 @@
+{
+    "XPIMLOGO" : "div#companyLogoHeader",
+    "XPIMTEXT" : "//li[text()='Welcome selenium']",
+    "XPIM" : "li#pim",
+    "XADD" : "//span[text()='Add Employee']"
+}
